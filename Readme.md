@@ -1,6 +1,4 @@
-📄 README
-
-➗ Exibição de Tabuada – Python
+➗ Exibição de Tabuada (laço while) – Python
 
 Este script em Python exibe a tabuada de um número fornecido pelo usuário. O usuário pode continuar pedindo a tabuada de diferentes números até digitar um número não positivo, que encerrará o programa.
 
@@ -17,28 +15,47 @@ O programa continua pedindo números até que o usuário insira um número não 
 Quer ver a tabuada de qual valor? 5
 ------------------------------
 5 X 1 = 5
+
 5 X 2 = 10
+
 5 X 3 = 15
+
 5 X 4 = 20
+
 5 X 5 = 25
+
 5 X 6 = 30
+
 5 X 7 = 35
+
 5 X 8 = 40
+
 5 X 9 = 45
+
 5 X 10 = 50
 ------------------------------
 Quer ver a tabuada de qual valor? 7
 ------------------------------
 7 X 1 = 7
+
 7 X 2 = 14
+
 7 X 3 = 21
+
 7 X 4 = 28
+
 7 X 5 = 35
+
 7 X 6 = 42
+
 7 X 7 = 49
+
 7 X 8 = 56
+
 7 X 9 = 63
+
 7 X 10 = 70
+
 ------------------------------
 Quer ver a tabuada de qual valor? 0
 
